@@ -1,7 +1,7 @@
 [![MasterHead]https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif
 <h1 align="center">Hi 👋, I'm Rajbir B</h1>
 <h3 align="center">A DEV from IND</h3>
-<img align="right" alt="Coding" len="150 "width="300" src="https://i.pinimg.com/originals/48/69/10/48691010fc420959ddbad33ab95f323b.gif">
+<img align="right" alt="Coding" len="1500 "width="300" src="https://i.pinimg.com/originals/48/69/10/48691010fc420959ddbad33ab95f323b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elite0005&label=Profile%20views&color=0e75b6&style=flat" alt="elite0005" /> </p>
 
