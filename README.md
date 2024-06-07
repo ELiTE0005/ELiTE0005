@@ -1,7 +1,8 @@
-[![MasterHead]https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif
-<h1 align="center">Hi 👋, I'm Rajbir B</h1>
-<h3 align="center">A DEV from IND</h3>
-<img align="right" alt="Coding" len="1500 "width="300" src="https://i.pinimg.com/originals/48/69/10/48691010fc420959ddbad33ab95f323b.gif">
+[1[MasterHead](https://1.bp.blogspot.com/-744WymwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11h5u25Dj_Mig85XJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.lo)
+<h1 align="center">Hi. I'm Rajbir B</h1>
+<h3 align="center">A DEV from India</h3>
+<img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elite0005&label=Profile%20views&color=0e75b6&style=flat" alt="elite0005" /> </p>
 
