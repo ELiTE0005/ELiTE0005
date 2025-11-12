@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajbir B</h1>
-<h3 align="center">A DEV from IND</h3>
+<h1 align="center">Hi</h1>
+<h3 align="center">Child of the web</h3>
 
 
 
